@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import VideoChat from '../components/VideoChat'; // Placeholder video chat component
+import VideoChat from '../components/VideoChat';
 
 const HomePage = () => {
   return (
