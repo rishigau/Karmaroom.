@@ -1,1 +1,1 @@
-# Karmaroom.
+// Placeholder for README.md
